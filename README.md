@@ -2,5 +2,5 @@
 upload test
 Hi people!
 
-I'm a student who want to learn coding. :D
-I like to eat sushi.
+I'm a student who is learning to code. :D
+
